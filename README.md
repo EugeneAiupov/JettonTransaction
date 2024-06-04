@@ -1,1 +1,1 @@
-# for_friend
+Пример транзакции TON->Jetton
